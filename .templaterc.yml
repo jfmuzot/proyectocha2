@@ -1,0 +1,8 @@
+owner: jfmuzot  # Tu usuario de GitHub
+repo: proyectoch2  # Nombre de tu repositorio
+sites:
+  - name: Sitio Funcional
+    url: https://www.proyectocha2.com
+  - name: Sitio Roto
+    url: https://www.sitioinvalido.com  # Incluye un sitio roto para la prueba
+baseUrl: /proyectoch2
